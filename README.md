@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Yuri 👋
 
 ### Test Automation Engineer • Robot Framework Ambassador • Open Source Contributor
 
